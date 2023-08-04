@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayFrontEndKing
+- 👋 Hi, I’m @JasonAtkinson
 - 👀 I’m interested in FrontEnd Development 
 - 🌱 I recently completed obtaining a Udacity Nano-degree in Frontend Web Development Fundamentals.
 - 💞️ I’m looking to collaborate on with others in this feild. So that I may hone my skills in this endeavor of personal growth.  
